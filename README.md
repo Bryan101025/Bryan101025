@@ -21,7 +21,7 @@ Technical Product Manager with 10+ years of experience driving innovation throug
 I curate and publish Git Weekly, featuring the top three trending GitHub repositories each week. This initiative helps developers stay informed about innovative projects and emerging technologies in the open source community.
 
 ## 🔭 Passion Projects
-- **Catskills Fly Fishing Guide: A React Native mobile app providing fly fishing information for the Catskills region, featuring an AI assistant powered by RAG (Retrieval Augmented Generation)
+- **Catskills Fly Fishing Guide**: A React Native mobile app providing fly fishing information for the Catskills region, featuring an AI assistant powered by RAG (Retrieval Augmented Generation)
 - **Guild Membership System**: A backend system processing Squarespace order confirmation emails and managing member data in Supabase for the Catskill Fly Tyers Guild
 - **Weekly Git LinkedIn Posting Pipeline**: An automated workflow that scrapes GitHub trending repositories, uses AI to generate engaging content, and schedules LinkedIn posts. I call it the Weekly Git bot!
 
